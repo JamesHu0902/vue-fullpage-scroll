@@ -19,6 +19,7 @@
 #nav {
   padding: 30px;
   position: fixed;
+  z-index: 1;
 }
 
 #nav a {
